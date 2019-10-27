@@ -1,0 +1,24 @@
+{
+  "name": "vivaldi",
+  "version": "0.0.1",
+  "description": "A front-end framework built on top of React and Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branchard/vivaldi.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "framework"
+  ],
+  "author": "branchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/branchard/vivaldi/issues"
+  },
+  "homepage": "https://github.com/branchard/vivaldi#readme"
+}
